@@ -1,0 +1,2 @@
+*.psd filter=lfs diff=lfs merge=lfs -text
+data/raw/atus_anual_2024.csv filter=lfs diff=lfs merge=lfs -text
